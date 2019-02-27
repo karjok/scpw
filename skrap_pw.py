@@ -2,7 +2,8 @@ from requests import get
 from bs4 import BeautifulSoup as bs
 from threading import Thread
 
-
+print('K O N T O O O O L'.center(40))
+print('*'*50)
 link = ['https://ailisgarcia.com/wp-content/uploads/2018/09/',
 	  'https://ailisgarcia.com/wp-content/uploads/2018/10/',
 	  'https://ailisgarcia.com/wp-content/uploads/2018/11/',
