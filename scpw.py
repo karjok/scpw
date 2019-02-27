@@ -9,8 +9,8 @@ link = ['https://ailisgarcia.com/wp-content/uploads/2018/09/',
 	  'https://ailisgarcia.com/wp-content/uploads/2018/11/',
 	  'https://ailisgarcia.com/wp-content/uploads/2018/12/']
 
-o = open('pw_deray.txt','a')
-bc = open('pw_deray.txt','r').read()
+o = open('hasil.txt','a')
+bc = open('hasil.txt','r').read()
 def gett():
   #for l1 in link:
 	print('oke')
